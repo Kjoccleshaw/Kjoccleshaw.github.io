@@ -1,0 +1,58 @@
+body {
+    background-color: #3a9ab9;
+}
+
+body{
+	background-image: url("../img/brighton-b.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+ul{
+	list-style: none;
+}
+
+.third-item {
+	color:  black;
+}
+
+
+.main-heading{
+	margin-left: 500px;
+	font-family: "courier new";
+
+}
+
+.sub-heading{
+	margin-left: 510px;
+	font-family: "courier new";
+}
+
+.second-page{
+	font-size: 20px;
+	color: crimson;
+}
+
+img{ 
+   border: 5px solid #7fcec6;
+   width: 500px;
+   background-color: #9C27B0;
+}
+
+h1{
+	font-size: 100px;
+	color: antiquewhite;
+}
+
+h3{
+	font-size: 60px;
+}
+
+h3{
+	color: antiquewhite;
+}
+
+div{
+	font-size: 50px;
+
+}

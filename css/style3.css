@@ -1,0 +1,36 @@
+body{
+	background-color: #72a3e2;
+	font-family: 'Varela Round', sans-serif;
+}
+
+.profile-image{
+	max-width: 100%
+}
+
+h4{
+	font-size: 30px;
+	font-family: "courier new";
+	color: navy
+}
+
+body{
+	font-size: 15px;
+}
+
+.giraffe{
+	margin-top: 20px;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+h4{
+	margin-top: 15px;
+}
+
+.main-heading{
+	margin-left: 140px;
+	font-family: "courier new";
+	font-size: 40px;
+}

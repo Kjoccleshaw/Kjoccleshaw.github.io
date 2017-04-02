@@ -1,0 +1,12 @@
+body{
+	background-image: url("../img/ausss.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-position: right top;
+	background-attachment: fixed;
+}
+
+.second-page{
+	font-size: 30px
+
+}
