@@ -7,6 +7,8 @@ body{
 }
 
 .second-page{
-	font-size: 30px
-
+	font-size: 30px;
+	font-family:'Pacifico', cursive;
+	margin-left: 500px;
+	margin-bottom: 500px;
 }

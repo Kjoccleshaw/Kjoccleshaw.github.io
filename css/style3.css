@@ -1,8 +1,23 @@
+html{
+	height: 100%; 
+}	
 body{
 	background-color: #72a3e2;
 	font-family: 'Varela Round', sans-serif;
 }
 
+body{
+	background-image: url("../img/treee.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	background-position: right top;
+	background-attachment: fixed; 
+	
+}
+
+.index-body{
+	height: 100%;
+}
 .profile-image{
 	max-width: 100%
 }
@@ -19,6 +34,7 @@ body{
 
 .giraffe{
 	margin-top: 20px;
+	max-width: 100%;
 }
 
 .card{
@@ -34,3 +50,39 @@ h4{
 	font-family: "courier new";
 	font-size: 40px;
 }
+
+.giraffe{
+	margin-top: 20px;
+}
+
+.map{
+	margin-top: 20px;
+	width: 100%
+}
+
+.card-block{
+	background-color: #bacfd2;
+}
+.jumbotron{
+	background-image: url("../img/skyy.jpg");
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	height: 100%;
+	font-size: 100px;
+
+}
+
+.homepage-nav{
+	background-color: #e16879;
+}
+
+.display-3{
+	margin-top: 100px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 100px;
+}
+
+
+
